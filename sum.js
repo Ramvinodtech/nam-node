@@ -6,4 +6,5 @@ var hello = 'hello world';
     console.log(a+b);
 }
 
-module.exports = {hello,calculateSum};
+// module.exports = {hello,calculateSum};
+export {hello,calculateSum}
