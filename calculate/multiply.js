@@ -2,4 +2,4 @@
     console.log(a*b);
  }
 
- module.exports = multiply;
+ module.exports = {multiply};
