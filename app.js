@@ -2,7 +2,7 @@
 const { calculateSum, hello } = require('./calculate/sum.js');
 // import { calculateSum, hello } from './calculate/sum.js';
 
-const multiply = require('./calculate/multiply.js');
+const {multiply} = require('./calculate/multiply.js');
 // import { multiply } from './multiply.js';
 var a = 20;
 var b = 30;
